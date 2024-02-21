@@ -1,0 +1,15 @@
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\bin\Debug\net8.0\projectpandora-console.exe
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\bin\Debug\net8.0\projectpandora-console.deps.json
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\bin\Debug\net8.0\projectpandora-console.runtimeconfig.json
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\bin\Debug\net8.0\projectpandora-console.dll
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\bin\Debug\net8.0\projectpandora-console.pdb
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\projectpandora-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\projectpandora-console.AssemblyInfoInputs.cache
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\projectpandora-console.AssemblyInfo.cs
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\projectpandora-console.csproj.CoreCompileInputs.cache
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\projectpandora-console.sourcelink.json
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\projectpandora-console.dll
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\refint\projectpandora-console.dll
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\projectpandora-console.pdb
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\projectpandora-console.genruntimeconfig.cache
+C:\Users\Lunage\Documents\GitHub\projectpandora-console\obj\Debug\net8.0\ref\projectpandora-console.dll
